@@ -32,7 +32,7 @@ project_root/
 ## Usage
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ErfanShakouri/AI_Medicine_learn.git>
    ```
 2. Place your DICOM files in the `dicom_dir` folder.
 3. Run the Python script:
